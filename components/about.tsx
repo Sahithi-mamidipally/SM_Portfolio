@@ -8,7 +8,7 @@ export default function About() {
           <p className="text-lg text-gray-700 dark:text-gray-300 max-w-3xl mx-auto">
             Passionate Data Engineer with about 2 years of experience optimizing ETL pipelines, automating data workflows,
             and creating impactful Power BI dashboards. Skilled in Python, SQL, and collaboration to deliver data-driven
-            solutions. Currently pursuing a Master's in Computer Science at the University of North Texas, with a strong
+            solutions. Currently pursuing a Master&apos;s in Computer Science at the University of North Texas, with a strong
             foundation in Information Technology from my Bachelor's degree.
           </p>
         </div>
