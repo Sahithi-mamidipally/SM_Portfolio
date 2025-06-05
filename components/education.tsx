@@ -11,7 +11,7 @@ export default function Education() {
             </div>
             <div className="bg-white shadow-md rounded-lg p-6">
               <h3 className="text-xl font-bold mb-2">Bachelor of Science - Information Technology</h3>
-              <p className="text-gray-600">Jawaharlal Nehru Technological University Hyderabad | Hyderabad, India</p>
+              <p className="text-gray-600">MRECW Hyderabad | Hyderabad, India</p>
               <p className="text-gray-600">Graduated: May 2021</p>
             </div>
           </div>
